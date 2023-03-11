@@ -1,0 +1,243 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ccfg_clk_src
+aBEHAVIORAL
+eCLK_SRC
+DAx4 work 7 clk_src 10 behavioral 22 SNgna_BjkR8YS]g<TVbh11
+Z0 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 DEx4 work 7 clk_src 0 22 `HS1[5]Ro3^=Mz6Um^?TM3
+Z4 w1606356906
+Z5 dC:\Users\user\Desktop\GenericParity_12_10
+Z6 8C:/Users/user/Desktop/GenericParity_12_10/clk_src.vhd
+Z7 FC:/Users/user/Desktop/GenericParity_12_10/clk_src.vhd
+l0
+L37
+VFThAO6Kfe@agHSAlAIYm70
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1607570360.632000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/GenericParity_12_10/clk_src.vhd|
+Z11 !s107 C:/Users/user/Desktop/GenericParity_12_10/clk_src.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 ^YM@WUO@QFVAXn4VigNX^3
+!i10b 0
+Eclk_src
+R4
+Z14 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R1
+R2
+R5
+R6
+R7
+l0
+L9
+V`HS1[5]Ro3^=Mz6Um^?TM3
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 9T]MAGFm89fmGWzj<W0`A0
+!i10b 1
+Abehavioral
+R14
+R1
+R2
+R3
+l22
+L14
+VSNgna_BjkR8YS]g<TVbh11
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 ^;AanP]KgkcPKIiIAb@Yi1
+!i10b 1
+Ecounter
+Z15 w1607568814
+R14
+R1
+R2
+R5
+Z16 8C:/Users/user/Desktop/GenericParity_12_10/counter.vhd
+Z17 FC:/Users/user/Desktop/GenericParity_12_10/counter.vhd
+l0
+L9
+ViC@aS24HUZGUZ^hKOGk>S2
+R8
+32
+Z18 !s108 1607570360.913000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/GenericParity_12_10/counter.vhd|
+Z20 !s107 C:/Users/user/Desktop/GenericParity_12_10/counter.vhd|
+R12
+R13
+!s100 4Z:Ik=9A7GM==MEQCTHg_0
+!i10b 1
+Acounter
+R14
+R1
+R2
+DEx4 work 7 counter 0 22 iC@aS24HUZGUZ^hKOGk>S2
+l15
+L14
+V;4]BP5ooJoQ2;JX9b?jeX1
+R8
+32
+R18
+R19
+R20
+R12
+R13
+!s100 `4F3co0BG3o<YjKT<gahJ1
+!i10b 1
+Eparity_det
+Z21 w1606966952
+R1
+R2
+R5
+Z22 8C:/Users/user/Desktop/GenericParity_12_10/Parity_Detector.vhd
+Z23 FC:/Users/user/Desktop/GenericParity_12_10/Parity_Detector.vhd
+l0
+L6
+ViNfhS`Ana:0BF`XIUjC_T0
+R8
+32
+Z24 !s108 1607570361.367000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/GenericParity_12_10/Parity_Detector.vhd|
+Z26 !s107 C:/Users/user/Desktop/GenericParity_12_10/Parity_Detector.vhd|
+R12
+R13
+!s100 O?X5^6CYLU1AJ4>N1`oD]1
+!i10b 1
+Aparity
+R1
+R2
+DEx4 work 10 parity_det 0 22 iNfhS`Ana:0BF`XIUjC_T0
+l13
+L12
+V;TjSD65RDiAeEhmgQU0Fg0
+R8
+32
+R24
+R25
+R26
+R12
+R13
+!s100 TZf7aN9cI=amB:79n`OI02
+!i10b 1
+Eparity_gen
+Z27 w1607567773
+R1
+R2
+R5
+Z28 8parity.vhd
+Z29 Fparity.vhd
+l0
+L5
+Vz;FF6]_`OUAk2L[V_e9A@0
+!s100 X02hnMb2aiFekLm:KDFgb3
+R8
+32
+!i10b 1
+Z30 !s108 1607571865.906000
+Z31 !s90 -reportprogress|300|parity.vhd|
+Z32 !s107 parity.vhd|
+o-O0
+R13
+Aparity
+R1
+R2
+Z33 DEx4 work 10 parity_gen 0 22 z;FF6]_`OUAk2L[V_e9A@0
+l13
+L12
+Z34 VRmRkeIeSdeIb<l2a@97@f0
+Z35 !s100 Z@`W:G1`B41m5LlSbZG<H1
+R8
+32
+!i10b 1
+R30
+R31
+R32
+o-O0
+R13
+Esg
+Z36 w1607569276
+R1
+R2
+R5
+Z37 8sg.vhd
+Z38 Fsg.vhd
+l0
+L24
+VM8S:;I;NK>oXn5_LnR1^D1
+R8
+32
+Z39 !s108 1607571865.562000
+Z40 !s90 -reportprogress|300|sg.vhd|
+Z41 !s107 sg.vhd|
+o-O0
+R13
+!s100 iAUNE;O2[`:f8m]=Z<=J61
+!i10b 1
+Abdf_type
+R1
+R2
+DEx4 work 2 sg 0 22 M8S:;I;NK>oXn5_LnR1^D1
+l50
+L31
+V8:SdHo^__MmhfiFMVTcTT3
+R8
+32
+R39
+R40
+R41
+o-O0
+R13
+!s100 TMPdJIZiaBmSf@?;TnO>33
+!i10b 1
+Etb_top
+Z42 w1607569544
+R1
+R2
+R5
+Z43 8tb_top.vhd
+Z44 Ftb_top.vhd
+l0
+L24
+VbP9Cm8:2JfGd2SjQYW3mk3
+R8
+32
+Z45 !s108 1607571865.702000
+Z46 !s90 -reportprogress|300|tb_top.vhd|
+Z47 !s107 tb_top.vhd|
+o-O0
+R13
+!s100 g=g@gdC_?GY@U7;FaP41D3
+!i10b 1
+Abdf_type
+R1
+R2
+DEx4 work 6 tb_top 0 22 bP9Cm8:2JfGd2SjQYW3mk3
+l49
+L31
+V0XETCT4X8]@F22:kGBg^;3
+!s100 CIjShM:Ij04J;BI>8T98b3
+R8
+32
+R45
+R46
+R47
+o-O0
+R13
+!i10b 1
