@@ -1,0 +1,118 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ealu
+Z0 w1608722514
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\user\Desktop\C107110257
+Z6 8C:/Users/user/Desktop/C107110257/ALU.vhd
+Z7 FC:/Users/user/Desktop/C107110257/ALU.vhd
+l0
+L5
+VzaEXH7XeIGCc_5[_V6@Rc1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1609380244.523000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/C107110257/ALU.vhd|
+Z11 !s107 C:/Users/user/Desktop/C107110257/ALU.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 `0<HZPAeT5J3Dl;@@QI@c3
+!i10b 1
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 zaEXH7XeIGCc_5[_V6@Rc1
+l14
+L12
+V25`fI^[;gVBkO[__zSXWj1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 CB346Z;99og:b_16S?7WA1
+!i10b 1
+Etb_top
+Z14 w1609380185
+R3
+R4
+R5
+Z15 8C:/Users/user/Desktop/C107110257/tb_top.vhd
+Z16 FC:/Users/user/Desktop/C107110257/tb_top.vhd
+l0
+L24
+VTcW_MiOBE=@C99Go4_8Az0
+R8
+32
+Z17 !s108 1609380244.686000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/C107110257/tb_top.vhd|
+Z19 !s107 C:/Users/user/Desktop/C107110257/tb_top.vhd|
+R12
+R13
+!s100 DbzQV7ia[4zRCjj<VPD6L3
+!i10b 1
+Abdf_type
+R3
+R4
+DEx4 work 6 tb_top 0 22 TcW_MiOBE=@C99Go4_8Az0
+l56
+L31
+VjY4Ua=<A`;cE770[A3dbh3
+!s100 28PHO1ZU2gn9Ob5>9JB^I1
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!i10b 1
+Ewaveform_gen
+Z20 w1609380088
+R2
+R1
+R3
+R4
+R5
+Z21 8C:/Users/user/Desktop/C107110257/waveform_gen.vhd
+Z22 FC:/Users/user/Desktop/C107110257/waveform_gen.vhd
+l0
+L7
+V<10MoV`P`<lXoVBeiCPDa0
+!s100 gnBiV=UB`k[Xnl^;3U6Di1
+R8
+32
+!i10b 1
+Z23 !s108 1609380244.927000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/C107110257/waveform_gen.vhd|
+Z25 !s107 C:/Users/user/Desktop/C107110257/waveform_gen.vhd|
+R12
+R13
+Abehavioral
+R2
+R1
+R3
+R4
+Z26 DEx4 work 12 waveform_gen 0 22 <10MoV`P`<lXoVBeiCPDa0
+l19
+L13
+Z27 VHULz71idY6Y`o7Cm`dm1Z1
+Z28 !s100 1LYDK7I1ooMiS`QVm56dj2
+R8
+32
+!i10b 1
+R23
+R24
+R25
+R12
+R13
