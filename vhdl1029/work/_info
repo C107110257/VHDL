@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Eadder1
+Z0 w1603943883
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\user\Desktop\vhdl1029
+Z5 8C:/Users/user/Desktop/vhdl1029/t1029.vhd
+Z6 FC:/Users/user/Desktop/vhdl1029/t1029.vhd
+l0
+L5
+Vf3D05?Y_@zbTe?k1dLWOI3
+!s100 1lLY^8^5lW@:Va[X6R[Zc2
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1603943887.503000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/vhdl1029/t1029.vhd|
+Z10 !s107 C:/Users/user/Desktop/vhdl1029/t1029.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aadder1
+R1
+R2
+R3
+Z13 DEx4 work 6 adder1 0 22 f3D05?Y_@zbTe?k1dLWOI3
+l11
+L10
+Z14 VdI3Jb``Kd1>JmA7hL1<B_2
+Z15 !s100 2=zTMKmUgCZ92LQg`hmYM3
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12

@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Edff2
+Z0 w1603938888
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\user\Desktop\vhdl1022_1
+Z4 8C:/Users/user/Desktop/vhdl1022_1/Test1022_1.vhd
+Z5 FC:/Users/user/Desktop/vhdl1022_1/Test1022_1.vhd
+l0
+L4
+VH>;IggZVO@ZcWz`]C^lI11
+!s100 7DWGgCAAeVEE]TO6<zMaW0
+Z6 OV;C;10.1d;51
+32
+!i10b 1
+Z7 !s108 1603938888.603000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/user/Desktop/vhdl1022_1/Test1022_1.vhd|
+Z9 !s107 C:/Users/user/Desktop/vhdl1022_1/Test1022_1.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Abehavior
+R1
+R2
+DEx4 work 4 dff2 0 22 H>;IggZVO@ZcWz`]C^lI11
+l10
+L9
+VE;7l9JA^ljhdz65V8ANEj3
+!s100 GGV@f?=l^UQmEEElE<gjU1
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11

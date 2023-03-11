@@ -1,0 +1,10 @@
+C:/Users/user/Desktop/vhdl1029/t1029.vhd {1 {vcom -work work -2002 -explicit C:/Users/user/Desktop/vhdl1029/t1029.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity adder1
+-- Compiling architecture adder1 of adder1
+
+} {} {}}
