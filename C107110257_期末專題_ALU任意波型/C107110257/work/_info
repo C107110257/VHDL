@@ -1,0 +1,131 @@
+m255
+K3
+z0
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ealu
+Z0 w1610038262
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/user/Desktop/C107110257
+Z6 8C:/Users/user/Desktop/C107110257/ALU.vhd
+Z7 FC:/Users/user/Desktop/C107110257/ALU.vhd
+l0
+L5
+V[`FhenLo_<l_@I7kJcMbV3
+!s100 D1kMMAW=GSZb3lHO]=YHe0
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1610043865
+!i10b 1
+Z10 !s108 1610043865.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/C107110257/ALU.vhd|
+Z12 !s107 C:/Users/user/Desktop/C107110257/ALU.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 [`FhenLo_<l_@I7kJcMbV3
+l15
+L13
+Vb0F;XWjDb6Gaae;b_oN7A1
+!s100 F9U4UQ6AKz``>Ol3jMC]81
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_top
+Z15 w1610039250
+R3
+R4
+R5
+Z16 8C:/Users/user/Desktop/C107110257/tb_top.vhd
+Z17 FC:/Users/user/Desktop/C107110257/tb_top.vhd
+l0
+L25
+VGmzgg;C698cUcITTzEd<K0
+!s100 S>;hUG^U8dEkXNz7HBKo70
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/C107110257/tb_top.vhd|
+Z19 !s107 C:/Users/user/Desktop/C107110257/tb_top.vhd|
+!i113 1
+R13
+R14
+Abdf_type
+R3
+R4
+DEx4 work 6 tb_top 0 22 Gmzgg;C698cUcITTzEd<K0
+l54
+L35
+V@e@T4XQCXo7F?CA_^M0nc3
+!s100 bT9CjS4h>kj`^TNA;z_H<3
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Ewaveform_gen
+Z20 w1610025880
+R2
+R1
+R3
+R4
+R5
+Z21 8C:/Users/user/Desktop/C107110257/waveform_gen.vhd
+Z22 FC:/Users/user/Desktop/C107110257/waveform_gen.vhd
+l0
+L7
+VHKV4`lMB35mJi]8^eaoe;3
+!s100 L^QIX39m28k:D<h5>52OH1
+R8
+32
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/user/Desktop/C107110257/waveform_gen.vhd|
+Z24 !s107 C:/Users/user/Desktop/C107110257/waveform_gen.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R1
+R3
+R4
+Z25 DEx4 work 12 waveform_gen 0 22 HKV4`lMB35mJi]8^eaoe;3
+l17
+L11
+Z26 VLGjASP3JONz=]lgCWDaMT2
+Z27 !s100 46SbdOMV3G5QU_R6U57_M1
+R8
+32
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14
